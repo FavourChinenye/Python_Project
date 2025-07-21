@@ -20,7 +20,7 @@ This project involves analyzing stock market data using Python. I used libraries
 
 ## 🚀 How to Run
 1. Clone this repository
-2. Open `stock_analysis.ipynb` in Jupyter Notebook
+2. Open `Python_final_project.ipynb` in Jupyter Notebook
 3. Run each cell in order
 
 ## 🔗 Data Source
